@@ -1,2 +1,2 @@
 # practice_related
-Solo practice code
+Solo practice proj
